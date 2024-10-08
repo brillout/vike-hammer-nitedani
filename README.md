@@ -5,6 +5,15 @@ Made with [Spline](https://spline.design).
 <br/>
 
 
+## Animated
+
+[Source code](./vike-nitedani-animated.spline)
+
+https://github.com/brillout/vike-hammer-nitedani/raw/refs/heads/main/vike-nitedani-animated.mp4
+
+<br/>
+
+
 ## Light Background
 
 [Source code](./vike-hammer-nitedani_light-bg_rom-mod.spline)
