@@ -2,6 +2,8 @@ Vike 3D hammer made by [@nitedani](https://github.com/nitedani).
 
 Made with [Spline](https://spline.design).
 
+See also: [Making a Video from a 3D Spline model](https://gist.github.com/brillout/73624de22e636977b7738e2946c8df9e).
+
 <br/>
 
 
